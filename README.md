@@ -18,6 +18,7 @@
 3. Launch the executable.
 4. Select a folder to index.
 5. Start searching.
+<img width="1536" height="1024" alt="2f2357d4-b519-4db8-a397-8ff78f8075f4" src="https://github.com/user-attachments/assets/0ed68951-2b13-4c2b-b274-0041c810c29b" />
 
 ---
 
